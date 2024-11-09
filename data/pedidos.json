@@ -1,0 +1,73 @@
+[
+    {
+        "cliente": "Cliente A",
+        "status": "Novo",
+        "produtos": [
+            {
+                "nome": "Camiseta",
+                "preco": 50.0,
+                "categoria": "Vestuario",
+                "quantidade": 2
+            },
+            {
+                "nome": "Cal\u00e7a",
+                "preco": 100.0,
+                "categoria": "Vestuario",
+                "quantidade": 1
+            }
+        ],
+        "total": 200.0
+    },
+    {
+        "cliente": "Armando Gon\u00e7alves",
+        "status": "Novo",
+        "produtos": [
+            {
+                "nome": "MochilaDX",
+                "preco": 1000,
+                "categoria": "Acessorio",
+                "quantidade": 1
+            }
+        ],
+        "total": 1000.0
+    },
+    {
+        "cliente": "Marcio Brenner",
+        "status": "Processando",
+        "produtos": [
+            {
+                "nome": "Notboock",
+                "preco": 6000,
+                "categoria": "Eletronico",
+                "quantidade": 2
+            }
+        ],
+        "total": 12000.0
+    },
+    {
+        "cliente": "Kamila Vitoria",
+        "status": "Enviado",
+        "produtos": [
+            {
+                "nome": "Geladeira",
+                "preco": 3000,
+                "categoria": "Eletrodomestico",
+                "quantidade": 1
+            }
+        ],
+        "total": 3000.0
+    },
+    {
+        "cliente": "Clicia Maria",
+        "status": "Enviado",
+        "produtos": [
+            {
+                "nome": "Jaqueta",
+                "preco": 120,
+                "categoria": "Roupa",
+                "quantidade": 3
+            }
+        ],
+        "total": 360.0
+    }
+]
