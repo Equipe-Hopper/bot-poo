@@ -1,3 +1,10 @@
+"""EQUIPE HOPPER
+ALUNOS: ARMANDO DE OLIVEIRA GONÇALVES NETO
+        MARCIO BRENER CANTUARIA SANTOS
+        CLICIA MARIA SILVA
+        VICTOR FLAVIO ARANTES
+        KAMILA DOS SANTOS SOUZA""" 
+
 from modules.produto import Produto
 from modules.pedido import Pedido
 from modules.gestor_de_pedidos import GestorDePedidos
